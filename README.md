@@ -20,7 +20,7 @@ You will need to create a Function Key in the Azure instance to use a trigger. S
 
 ### Trigger Target
 
-https://fa-go-wordpress-to-github-digital-ca-gov.azurewebsites.net/WordpressSyncHttpTrigger?code=[Put Function Key Here]
+`https://fa-go-wordpress-to-github-digital-ca-gov.azurewebsites.net/WordpressSyncHttpTrigger?code=[Put Function Key Here]`
 
 ## Current Configuration
 
