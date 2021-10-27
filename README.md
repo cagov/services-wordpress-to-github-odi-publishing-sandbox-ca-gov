@@ -4,7 +4,8 @@ This is the [wordpress-to-github](https://www.npmjs.com/package/@cagov/wordpress
 
 ## Deploys services to the following Azure Function
 
-`FA-GO-WORDPRESS-TO-GITHUB-DIGITAL-CA-GOV`
+- `FA-GO-WORDPRESS-TO-GITHUB-DIGITAL-CA-GOV` - Function app
+- `sagowpghubdigitalcagov` - Storage account
 
 ## Target site source
 
