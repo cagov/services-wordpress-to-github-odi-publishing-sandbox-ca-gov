@@ -41,4 +41,4 @@ jobs:
           app-name: 'FA-GO-WORDPRESS-TO-GITHUB-ODI-PUBLISHING-SANDBOX-CA-GOV'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7647EFFFB97E4C49B97F596B9898E38C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A0707C6C6A7E47D69E121B61D94F9B46 }}
